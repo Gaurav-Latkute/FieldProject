@@ -22,4 +22,16 @@ To Start project use command
 ### Website Link: [ccitworld](https://www.ccitworld.com)
 
 ### Project screeshots
-[Project Screenshot](https://birdviewpsa.com/wp-content/uploads/2024/05/Portfolio-management-dashboard.png) (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWvKNbMstkN1sKkUdDnb_CU9ewNFyFGKOEjAG3l9X1FBZ0jeRXbXTgm3w&s=10)
+[Project Screenshot](https://birdviewpsa.com/wp-content/uploads/2024/05/Portfolio-management-dashboard.png)
+
+### First Command
+To start Project use `git init` command
+
+### Code part
+``` python
+      def hello():
+        print('Hello World')
+      hello()
+```
+
+      
