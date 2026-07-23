@@ -22,4 +22,4 @@ To Start project use command
 ### Website Link: [ccitworld](https://www.ccitworld.com)
 
 ### Project screeshots
-![Project Screenshot](https://unsplash.com/photos/serene-woman-in-red-dress-on-rocky-shore-censVMhzyfc)
+[Project Screenshot](https://unsplash.com/photos/serene-woman-in-red-dress-on-rocky-shore-censVMhzyfc)
