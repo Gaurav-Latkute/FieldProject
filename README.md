@@ -14,3 +14,7 @@ Experience the power of BootStrap utility classes Lorem ipsum dolor sit amet con
 - Screenshot
 - Code
 - Conclusion
+
+### How to Start
+To Start project use command
+> git init start FieldProject
